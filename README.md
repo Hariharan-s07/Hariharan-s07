@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I am Hariharan Sankar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**Hariharan-s07/Hariharan-s07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer & Network Engineer | Passionate about building robust software and scalable systems.
 
-Here are some ideas to get you started:
+<!-- Custom Badges / Buttons (Using shields.io) -->
+[![LeetCode](https://img.shields.io/badge/LEETCODE-2067%20RATING%20KNIGHT-orange?style=flat&logo=leetcode)](https://leetcode.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-website-green?style=flat)](https://yourwebsite.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I am up to
+
+* 💻 Solving algorithmic problems regularly and keeping up with LeetCode challenges.
+* 🛠️ Building full-stack web applications and exploring AI-driven tools in my daily workflow.
+* 🌱 Passionate about home gardening, reading novels, and learning continuously.
+
+---
+
+### 📊 Journey so far
+
+| Role | Where | Period |
+| :--- | :--- | :--- |
+| **Web Developer** | Get Founds Technologies | 2026 |
+| **Engineering Graduate** | Vels University (BE CSE) | Class of 2026 |
+
+---
+
+### 🛠️ Tech Stack
+
+* **Languages & Frameworks:** Java, Spring Boot, Python
+* **AI & Libraries:** TensorFlow, Keras, Scikit-learn, OpenCV
