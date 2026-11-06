@@ -5,7 +5,7 @@
 <!-- Custom Badges / Buttons (Using shields.io) -->
 [![LeetCode](https://img.shields.io/badge/LEETCODE-2067%20RATING%20KNIGHT-orange?style=flat&logo=leetcode)](https://leetcode.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-website-green?style=flat)](https://yourwebsite.com)
+
 
 ---
 
