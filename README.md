@@ -1,6 +1,6 @@
 # Hi, I am Hariharan Sankar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Full Stack Developer & Network Engineer | Passionate about building robust software and scalable systems.
+### Software Developer | Passionate about building robust software and scalable systems.
 
 <!-- Custom Badges / Buttons (Using shields.io) -->
 [![LeetCode](https://img.shields.io/badge/LEETCODE-2067%20RATING%20KNIGHT-orange?style=flat&logo=leetcode)](https://leetcode.com)
@@ -21,7 +21,6 @@
 
 | Role | Where | Period |
 | :--- | :--- | :--- |
-| **Web Developer** | Get Founds Technologies | 2026 |
 | **Engineering Graduate** | Vels University (BE CSE) | Class of 2026 |
 
 ---
